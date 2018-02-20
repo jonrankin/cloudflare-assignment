@@ -18,3 +18,8 @@ python cloudflare-compare.py
 It will output a table that compares the headers of the two sites found within the two variables in the script by the name: 
 * cloudflare_site
 * origin_site
+
+**NOTE:** You will need to ensure the window width is wide enough to compensate for the large information contained in some of the headers.
+
+Sample Output:
+![alt text](https://imgur.com/3zmmEUF "Sample Output")
