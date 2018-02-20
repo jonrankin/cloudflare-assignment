@@ -22,4 +22,4 @@ It will output a table that compares the headers of the two sites found within t
 **NOTE:** You will need to ensure the window width is wide enough to compensate for the large information contained in some of the headers.
 
 Sample Output:
-![alt text](https://imgur.com/3zmmEUF "Sample Output")
+![alt text](https://imgur.com/3zmmEUF.png "Sample Output")
