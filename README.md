@@ -10,6 +10,13 @@ Included are the following:
 
 ## Script Usage
 
+### Downloading the Script
+The script can be grabbed from any linux based machine by typing
+```
+wget https://raw.githubusercontent.com/jonrankin/cloudflare-assignment/master/cloudflare-compare.py
+```
+
+### Running the Script
 The script, once put onto a device that can execute python scripts only requires the following line when in the same directory as the script: 
 ``` 
 python cloudflare-compare.py 
