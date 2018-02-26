@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/jonrankin/cloudflare-assignment/master/cl
 ```
 
 ### Running the Script
-The script, once put onto a device that can execute python scripts only requires the following line when in the same directory as the script: 
+The script needs to be put on an IPv6 capable device that can run python, once downloaded use the following line when in the same directory as the script: 
 ``` 
 python cloudflare-compare.py 
 ``` 
