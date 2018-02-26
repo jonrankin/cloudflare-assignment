@@ -16,6 +16,7 @@ The script can be grabbed from any linux based machine by typing
 wget https://raw.githubusercontent.com/jonrankin/cloudflare-assignment/master/cloudflare-compare.py
 ```
 
+Alternatively, you can select the *Clone or Download* button and select *Download Zip*
 ### Running the Script
 The script needs to be put on an IPv6 capable device that can run python, once downloaded use the following line when in the same directory as the script: 
 ``` 
